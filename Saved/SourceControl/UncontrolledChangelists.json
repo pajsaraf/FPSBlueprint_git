@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Paj Saraf/Documents/Unreal Projects/FPSBlueprint_git/Content/Levels/GymBasic_Map.umap",
+				"C:/Users/Paj Saraf/Documents/Unreal Projects/FPSBlueprint_git/Content/BluePrints/BP_FPSPlayerCharacter.uasset",
+				"C:/Users/Paj Saraf/Documents/Unreal Projects/FPSBlueprint_git/Content/BluePrints/GameMode_FPS.uasset"
+			]
+		}
+	]
+}
